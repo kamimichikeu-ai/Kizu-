@@ -1,0 +1,6 @@
+{
+  "name": "Kizu",
+  "description": "A quiet, dimly lit bulletin board for anonymous trauma storytelling and response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
